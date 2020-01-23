@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{971161C9-D627-452B-9E0F-9C9B54FDC733}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BestYou/BestYou/PhrasesPage.xaml.cs">
+    <Files>
+      <File FileName="BestYou/BestYou/PhrasesPage.xaml" Line="26" Column="52" IsPinned="True" />
+      <File FileName="BestYou/BestYou/HomePage.xaml" Line="14" Column="1" />
+      <File FileName="BestYou/BestYou/App.xaml" Line="1" Column="1" />
+      <File FileName="BestYou/BestYou/App.xaml.cs" Line="22" Column="1" />
+      <File FileName="BestYou/BestYou.Android/MainActivity.cs" Line="30" Column="1" />
+      <File FileName="BestYou/BestYou.iOS/AppDelegate.cs" Line="31" Column="1" />
+      <File FileName="BestYou/BestYou/Phrases.cs" Line="52" Column="1" />
+      <File FileName="BestYou/BestYou/MainPage.xaml.cs" Line="28" Column="1" />
+      <File FileName="BestYou/BestYou/PhrasesPage.xaml.cs" Line="19" Column="10" />
+      <File FileName="BestYou/BestYou/PhrasesAllPage.xaml" Line="14" Column="40" />
+      <File FileName="BestYou/BestYou/NotificationsPage.xaml" Line="1" Column="1" />
+      <File FileName="BestYou/BestYou/PhrasesAddPage.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BestYou" expanded="True">
+            <Node name="BestYou" expanded="True" selected="True">
+              <Node name="Classes" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="HomePage.xaml" expanded="True" />
+              <Node name="LoginPage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="NotificationsAdd.xaml" expanded="True" />
+              <Node name="NotificationsPage.xaml" expanded="True" />
+              <Node name="PhrasesAddPage.xaml" expanded="True" />
+              <Node name="PhrasesPage.xaml" expanded="True" />
+            </Node>
+            <Node name="BestYou.Android" expanded="True" />
+            <Node name="BestYou.iOS" expanded="True">
+              <Node name="Packages" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BestYou.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4B03B624-0F76-4CE6-839E-8C9BC2C9DCDC" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BestYou.Android PreferredExecutionTarget="Android.Pixel_XL_Edited_API_28" />
+</Properties>

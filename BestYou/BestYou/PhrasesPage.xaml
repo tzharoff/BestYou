@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="BestYou.PhrasesPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label x:Name="labelPhrase"
+                    Margin="25, 75, 25, 0"
+                    Text="The best you! this is a lot of text, so i can get an idea of how this looks with a lot of text in it."
+                    VerticalOptions="CenterAndExpand" 
+                    HorizontalOptions="CenterAndExpand"
+                    HeightRequest="250" />
+
+            <Button x:Name="buttonRandom"
+                    Margin="0, 15, 0, 0"
+                    Text="Random Phrase"
+                    VerticalOptions="CenterAndExpand"
+                    HorizontalOptions="CenterAndExpand"
+                    BackgroundColor="DodgerBlue"
+                    TextColor="White"
+                    ImageSource="refresh"
+                    WidthRequest="150"
+                    Clicked="buttonRandom_Clicked" />
+
+            <Button x:Name="buttonAll"
+                    Margin="0, 0, 0, 35"
+                    Text="All Phrases"
+                    VerticalOptions="EndAndExpand"
+                    HorizontalOptions="CenterAndExpand"
+                    BackgroundColor="DodgerBlue"
+                    TextColor="White"
+                    WidthRequest="150"
+                    Clicked="buttonAll_Clicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
